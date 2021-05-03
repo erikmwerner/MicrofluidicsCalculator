@@ -7,4 +7,4 @@ An excel spreadsheet with frequently used microfluidics equations
 * Shear stress
 * Valve switching
 
-![microfluidics calculator screenshot](microfluidics calculator screenshot.png)
+![microfluidics_calculator_screenshot.png](microfluidics calculator screenshot.png)
